@@ -21,7 +21,7 @@ let config = {
   silence: false, // 是否静默运行，默认false
   cellular: "RULE", // 蜂窝数据下的模式，RULE代表规则模式，PROXY代表全局代理，DIRECT代表全局直连
   wifi: "RULE", // wifi下默认的模式
-  all_direct: ["Mars_5G", "asjs", "asjs 2020_5G-2", "as-google-999", "asj5G", "asjs 2020_2.4G", "asjs 2020_5G-1, "asjs_5G-1", "asjs_5G-2", "WRT32X Extreme"], // 指定全局直连的wifi名字
+  all_direct: ["Mars_5G", "asjs", "asjs 2020_5G-2", "as-google-999", "asj5G", "asjs 2020_2.4G", "asjs 2020_5G-1“, "asjs_5G-1", "asjs_5G-2", "WRT32X Extreme"], // 指定全局直连的wifi名字
   all_proxy: [], // 指定全局代理的wifi名字
 };
 
